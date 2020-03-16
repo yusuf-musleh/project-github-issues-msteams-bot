@@ -1,0 +1,8 @@
+{
+  "name": "github-issues-msteams",
+  "author": "ymusleh <yusuf@stdlib.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
