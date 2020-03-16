@@ -1,4 +1,4 @@
-# Microsoft Teams + Airtable Daily Metrics Bot
+# Microsoft Teams + Github Open Issues Notification/Reminder Bot
 
 ## Deploy in Seconds
 
