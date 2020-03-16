@@ -35,7 +35,7 @@ module.exports = async (event) => {
     }];
   }
   
-  await lib.microsoftteams.messages['@dev'].create(messagePayload);
+  await lib.microsoftteams.messages['@0.0.2'].create(messagePayload);
   
   return result;
 
