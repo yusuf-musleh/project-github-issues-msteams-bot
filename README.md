@@ -8,6 +8,8 @@ This a Microsoft Teams bot that notifies user in a Channel when a new Issue is O
 
 ![](./readme/images/issue-opened-message.png)
 
+![](./readme/images/hourly-reminder.png)
+
 Setup is simple –– you can deploy it without writing any code or configuring any files due to Standard Library's [Identity Token](https://docs.stdlib.com/identity-management-sso-for-apis/what-is-an-identity-token/) support! The only things you need to do are to add the Standard Library bot to your Microsoft Teams organization, have a Github account, link those to resources, and deploy.
 
 ## Installing Your Bot Into Teams
