@@ -32,7 +32,7 @@ Save your project, then open `functions/events/github/issues.js` in the sidebar 
 
 You'll then see a modal appear that will prompt you to link your Github Account and select a specific team within your Microsoft Teams organization where you would like to receive notifications.
 
-Once you've linked the required resources, press the orange **Save Endpoint** button in the bottom left corner of the editor. Finally, press the blue **Deploy** button to deploy your project live.
+Once you've linked the required resources, you can press the green **Run Code** button to test your endpoint. Finally, once you've verified things are working, press the blue **Deploy** button to deploy your project live.
 
 That's it, you're all done! Your bot should be ready to go.
 
